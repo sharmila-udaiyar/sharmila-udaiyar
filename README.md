@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sharmila 👋
 
-<!--
-**sharmila-udaiyar/sharmila-udaiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence  
+💡 Passionate about Machine Learning & Deep Learning  
+📊 Exploring Data Science & AI Applications  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python
+- Machine Learning
+- Deep Learning
+- Pandas, NumPy
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔹 Intrusion Detection System 
+- 🔹 AI-based Image Fusion and Target Tracking
+- 🔹 EduBridge Digital Classroom App
+
+## 📫 Connect with Me
+- LinkedIn:  linkedin.com/in/sharmilaudaiyar/ 
+- Email: sharmilaudaiyar@gmail.com
