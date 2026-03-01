@@ -36,5 +36,5 @@ Flutter-based educational app with:
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/sharmilaudaiyar/
+- LinkedIn: www.linkedin.com/in/sharmilaudaiyar
 - Email:  sharmilaudaiyar@gmail.com
