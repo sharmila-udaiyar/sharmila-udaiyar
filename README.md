@@ -17,5 +17,5 @@
 - 🔹 EduBridge Digital Classroom App
 
 ## 📫 Connect with Me
-- LinkedIn:  linkedin.com/in/sharmilaudaiyar/ 
+- LinkedIn: linkedin.com/in/sharmilaudaiyar/
 - Email: sharmilaudaiyar@gmail.com
